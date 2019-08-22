@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## **Coffee**Junky
 
-You can use the [editor on GitHub](https://github.com/Coffee-Junky/CoffeeJunky/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Coffee Junky Blog Page about daily Speculations, Ponderings & Rantings
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What do I think about market?
+well it is getting desperate again. Whole market structure is about to experience a one in a lifetime market shift and nobody seems to understand what is coming. In short order I will list the anomalies and human fallacies:
 
-### Markdown
+- About $15 trillion of negative interest bearing debt out there.
+- Rising unrest in the world: middle east as usual suspect but also asia, Hong Kong etc.
+- Rising Gold again (I will post a note for gold later so stick around!)
+- Stalling US growth. China and Europe as well.
+- Central Banks and governments look so dump against all this developments. They, I guess, should be sensing this time is different but again they know their tool box is full of old weapons not effective against what is coming.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Well if you are asking what to do in defence, again my advise list:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Run to the bunkers! 
+2. Go BIG SHORT. 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coffee-Junky/CoffeeJunky/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My Pic of the day [Panic on Wall St.](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjszdrZrpbkAhXD66QKHRWKDfsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Fgallery%2F2008%2Foct%2F28%2Fuseconomy-marketturmoil&psig=AOvVaw1xIeB5w-MUEgAa1bXNLA0a&ust=1566559379944727)
+For more details see [Ziraat GYO](https://www.ziraatgyo.com.tr/).
